@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bishan Prabhashwara</h1>
+<h1 align="center">Hi👋, I'm Bishan Prabhashwara</h1>
 <h3 align="center">A passionate full stack, machine learning and deep learning developer from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishanprabhashwara&label=Profile%20views&color=0e75b6&style=flat" alt="bishanprabhashwara" /> </p>
