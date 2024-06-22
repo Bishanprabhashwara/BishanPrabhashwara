@@ -23,4 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishanprabhashwara&show_icons=true&locale=en" alt="bishanprabhashwara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishanprabhashwara&" alt="bishanprabhashwara" /></p>
- <p></p><img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bishanprabhashwara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/></P>
+ <p><img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bishanprabhashwara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/></P>
+<p>### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bishanprabhashwara&limit=5&theme=dark&combine_all_yearly_contributions=true)</p>
